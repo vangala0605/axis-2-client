@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 this is git class
 narsi
+=======
+narsi
+reddy
+12
+
+djsdjs
+jdskds
+kdsd
+ds
+34
+>>>>>>> 8a4e3c69ee6709b7a48fc5c63fa8cc4492fb149d
